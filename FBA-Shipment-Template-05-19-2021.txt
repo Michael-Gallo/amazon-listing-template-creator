@@ -1,0 +1,15 @@
+PlanName	Test-Shipment-05-19-2021
+ShipToCountry	US
+AddressName	Michael Gallo
+AddressFieldOne	Fake-Street-Address
+AddressFieldTwo	
+AddressCity	Faker-City
+AddressCountryCode	US
+AddressStateOrRegion	NB
+AddressPostalCode	05555
+AddressDistrict	
+
+MerchantSKU	Quantity
+fake-sku-1	1
+fake-sku-2	2
+fake-sku-3	3

@@ -1,0 +1,4 @@
+ASIN,SKU,Product,Condition,Quantity,price
+B00,fake-sku-1,eijfaw,new,1,500
+B01,fake-sku-2,eijfaw,new,2,500
+B01,fake-sku-3,eijfaw,new,3,500

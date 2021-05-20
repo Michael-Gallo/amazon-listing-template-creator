@@ -1,0 +1,3 @@
+fulfillment-channel	seller-sku
+AMAZON_NA	fake-sku-2
+MERCHANT	fake-sku-1

@@ -1,0 +1,3 @@
+product-id-type	item-condition	add-delete	batteries_required	supplier_declared_dg_hz_regulation1	fulfillment_center_id	price	product-id	sku
+1	11	a	no	not_applicable	AMAZON_NA	500	B00	fake-sku-1
+1	11	a	no	not_applicable	AMAZON_NA	500	B01	fake-sku-3
